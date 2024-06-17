@@ -52,6 +52,28 @@
 ![GIF 2024-6-17 19-53-01](https://github.com/luooin/nursing-home/assets/85004172/385d167e-a4d4-4c9d-908d-1d41cbb35e65)
 
 
++ 首页
+
+![image](https://github.com/luooin/nursing-home/assets/85004172/96c278d3-fd40-45ea-b336-04f4d28c9080)
+
++ 入院指南页面
+
+![image](https://github.com/luooin/nursing-home/assets/85004172/fdbda507-3498-465c-8973-5b9ea36617e2)
+
++ 个人中心页面
+
+![image](https://github.com/luooin/nursing-home/assets/85004172/7b603c45-61af-4718-8e96-72f87b249499)
+
+
++ 管理员登录界面
+
+![image](https://github.com/luooin/nursing-home/assets/85004172/f6f654d3-f519-4095-a2b0-a1fdcd228ff4)
+
++ 护工管理界面
+
+![image](https://github.com/luooin/nursing-home/assets/85004172/7b8625e9-8359-43c7-ae0b-529ab44563e7)
+
+
 #### 参与贡献
 
 1.  Fork 本仓库
