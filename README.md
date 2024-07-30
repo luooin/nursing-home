@@ -19,6 +19,7 @@
 #### 软件架构
 
 软件架构说明
+
 ![image](https://github.com/luooin/nursing-home/assets/85004172/0c85cc0e-2b22-4f70-ad5f-c50667acd3a2)
 
 
