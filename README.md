@@ -109,5 +109,6 @@ SpringBoot+Vue项目的部署详情可以查看这篇CSDN博客：http://t.csdni
 🐧：1902317191
 
 微信：
-![a9463eeab8c6468106e1a866546fc7f](https://github.com/user-attachments/assets/31a354ca-dcbb-453f-95ca-cb7e3638ef83)
+
+![QQ20240730-230522](https://github.com/user-attachments/assets/88e5761c-c372-4608-b65c-a1bd4e27dad0)
 
