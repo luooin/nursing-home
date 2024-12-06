@@ -9,11 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.jlwl</groupId>
-	<!-- µ¼ÈëÏîÄ¿µÄÃû³Æ -->
-	<artifactId>springbootayz12</artifactId>
+	<!-- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¿ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ -->
+	<artifactId>springboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot-schema</name>
-	<description>springbootÑ§Ï°¿ò¼Ü</description>
+	<description>springbootÑ§Ï°ï¿½ï¿½ï¿½</description>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -106,7 +106,7 @@
 		    <version>6.2.0.jre8</version>
 		    <scope>runtime</scope>
 		</dependency> -->
-		<!-- °Ù¶ÈÈË¹¤ÖÇÄÜ -->
+		<!-- ï¿½Ù¶ï¿½ï¿½Ë¹ï¿½ï¿½ï¿½ï¿½ï¿½ -->
 		<dependency>
     		<groupId>com.baidu.aip</groupId>
     		<artifactId>java-sdk</artifactId>
